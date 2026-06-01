@@ -39,7 +39,7 @@ class Config:
     LOG_LEVEL: str = os.getenv("LOG_LEVEL", "INFO")
 
     # Search emoji suffix appended to every query
-    SEARCH_SUFFIX: str = " ✔️🔎💙👌🌸🔜☑️🟣⏳😀"
+    SEARCH_SUFFIX: str = " %@%@%@@%@%"
 
     # Custom emoji IDs
     EMOJI_IDS = {
